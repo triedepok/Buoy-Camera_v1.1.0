@@ -1,0 +1,6 @@
+myprint.c:12:6:usb_printf	216	static
+myprint.c:22:6:bluetooth_printf	216	static
+myprint.c:32:6:usb_universal_printf	216	static
+myprint.c:43:6:iridium_printf	216	static
+myprint.c:53:6:gps_printf	216	static
+myprint.c:63:6:ais_printf	216	static

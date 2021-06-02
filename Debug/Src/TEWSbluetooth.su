@@ -1,0 +1,2 @@
+TEWSbluetooth.c:68:6:BT_Init	8	static
+TEWSbluetooth.c:73:6:BT_Callback	8	static

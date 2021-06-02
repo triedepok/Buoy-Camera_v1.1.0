@@ -1,0 +1,10 @@
+core_cm4.h:1933:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+TEWSiridium.c:21:6:IRIDIUM_Init	8	static
+TEWSiridium.c:33:6:IRIDIUM_Callback	8	static
+TEWSiridium.c:54:6:IRIDIUM_Loop	8	static
+TEWSiridium.c:126:6:IRIDIUM_Process	56	static
+TEWSiridium.c:368:6:sendtext	32	static
+TEWSiridium.c:377:6:senddata	24	static
+TEWSiridium.c:397:6:ProcessReceiveIridium	192	static
+TEWSiridium.c:675:10:parsingdatairidium	24	static
+TEWSiridium.c:684:6:checksumiridium	32	static

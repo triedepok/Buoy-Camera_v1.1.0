@@ -1,0 +1,8 @@
+TEWSvoltage.c:27:8:LTC4151_write	40	static
+TEWSvoltage.c:44:8:LTC4151_read_12_bits	64	dynamic
+TEWSvoltage.c:103:7:LTC4151_code_to_sense_current	24	static
+TEWSvoltage.c:112:7:LTC4151_code_to_vin_voltage	24	static
+TEWSvoltage.c:120:7:LTC4151_code_to_ADIN_voltage	24	static
+TEWSvoltage.c:127:10:getvoltage	64	dynamic
+TEWSvoltage.c:149:10:getcurrent	64	dynamic
+TEWSvoltage.c:172:9:LTC4151_snapshot	24	static

@@ -1,0 +1,17 @@
+TEWSdata.c:32:6:payloadToBytesx	32	static
+TEWSdata.c:50:6:addBits	32	static
+TEWSdata.c:61:6:checksum	24	static
+TEWSdata.c:77:6:EncodeDataNormal	432	static
+TEWSdata.c:117:6:EncodeDataTsunami	432	static
+TEWSdata.c:160:6:EncodeDataEngOBU	432	static
+TEWSdata.c:203:6:EncodeDataEngBuoy	232	static
+TEWSdata.c:240:6:EncodeTEWSLoc	240	static
+TEWSdata.c:289:6:DecodeDataNormal	232	static
+TEWSdata.c:321:6:DecodeDataTsunami	232	static
+TEWSdata.c:355:6:DecodeDataEngOBU	232	static
+TEWSdata.c:390:6:DecodeDataOBU	232	static
+TEWSdata.c:404:6:bitarray_to_sixbit	32	static
+TEWSdata.c:419:6:sixbit_to_ascii	40	static
+TEWSdata.c:441:6:EncodeTEWSLocBuoy	824	static
+TEWSdata.c:482:6:EncodeTEWSEngBuoy	808	static
+TEWSdata.c:521:6:UniversalDataDecoder	808	static

@@ -1,0 +1,2 @@
+TEWSled.c:11:6:setgreenLED	8	static
+TEWSled.c:15:6:resetgreenLED	8	static

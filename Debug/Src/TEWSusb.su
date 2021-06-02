@@ -1,0 +1,7 @@
+TEWSusb.c:27:6:USB_Init	8	static
+TEWSusb.c:34:6:USB_Callback	8	static
+TEWSusb.c:47:6:USB_Process	448	static
+TEWSusb.c:592:6:PrintParameter	32	static
+TEWSusb.c:647:6:PrintOK	16	static
+TEWSusb.c:658:6:PrintSerial	16	static
+TEWSusb.c:666:10:parsingdatausb	24	static

@@ -1,0 +1,10 @@
+TEWSgps.c:19:8:convertDegMinToDecDeg	40	static
+TEWSgps.c:33:6:GPS_Init	8	static
+TEWSgps.c:50:6:GPS_Callback	8	static
+TEWSgps.c:64:6:GPS_Process	128	static
+TEWSgps.c:212:8:CalculateDistance	112	static
+TEWSgps.c:227:10:coordinateToUINT32	24	static
+TEWSgps.c:235:6:checksumgps	32	static
+TEWSgps.c:251:8:distance	80	static
+TEWSgps.c:277:8:deg2rad	16	static
+TEWSgps.c:281:8:rad2deg	16	static
